@@ -1,9 +1,4 @@
-"""Linear Algebra: the mathematics behind every neuron in this track, in flashcard order.
-
-Sections stay empty until that neuron is built. The pages' scaffolding lives
-in each topic folder and imports from here, and each page's "View the code"
-popup shows the functions it uses from this file.
-"""
+"""Linear Algebra: the mathematics behind every neuron in this track, in flashcard order."""
 
 # _____________ LA.1 Vectors & Linear Combinations _____________
 
